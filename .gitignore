@@ -55,3 +55,6 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Local AI ticket-manager configs (per-machine, like settings.local.json)
+**/.claude/ticket-managers/
